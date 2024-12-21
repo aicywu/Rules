@@ -2,12 +2,12 @@
 # AUTHOR: Aicy
 # REPO: 
 # UPDATED: 2024-12-21 22:39
-# DOMAIN: 13
-# DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 32
+# DOMAIN: 16
+# DOMAIN-KEYWORD: 4
+# DOMAIN-SUFFIX: 39
 # IP-ASN: 1
 # IP-CIDR: 2
-# TOTAL: 49
+# TOTAL: 62
 payload:
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
@@ -58,3 +58,16 @@ payload:
   - DOMAIN-SUFFIX,gemini.google.com
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN,ai.google.dev
+  - DOMAIN,alkalimakersuite-pa.clients6.google.com
+  - DOMAIN,makersuite.google.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,deepmind.com
+  - DOMAIN-SUFFIX,deepmind.google
+  - DOMAIN-SUFFIX,gemini.google.com
+  - DOMAIN-SUFFIX,generativeai.google
+  - DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+  - DOMAIN-SUFFIX,apis.google.com
+  - DOMAIN-KEYWORD,colab
+  - DOMAIN-KEYWORD,developerprofiles
+  - DOMAIN-KEYWORD,generativelanguage
